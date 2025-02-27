@@ -12,4 +12,5 @@ Pasos para instalar MicroPython en Raspberry Pi Pico:
 Más detalles en [Pasión Electrónica](https://pasionelectronica.com/como-instalar-micropython-en-la-raspberry-pi-pico/).
 
 Usos de la raspberry
+
 En el proyecto, la Raspberry Pi Pico con MicroPython se usa para controlar y leer datos de sensores conectados (como temperatura, humedad, etc.). Se puede programar para interactuar con otros dispositivos, procesar información y enviar datos a la nube o sistemas locales. Además, puede actuar como una plataforma de control en proyectos de automatización, monitoreo remoto o IoT, facilitando la creación de soluciones tecnológicas pequeñas y económicas.
